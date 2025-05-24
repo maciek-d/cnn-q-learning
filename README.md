@@ -4,16 +4,16 @@ This project implements a **Convolutional Q-learning agent** with **experience r
 
 > ⚠️ Note: This project may require some setup effort. The Lua scripts included are functional but slightly outdated, and you may need to tweak them depending on your emulator setup and game configuration.
 
-## 🎮 Video Demos
+### 🎮 Game Demos
 
-- **Mario Advance (Original)**  
-  [▶️ Watch on YouTube](https://youtu.be/aFcRrjoxuhE)
+[![Classic NES Series: Super Mario Bros.](https://img.youtube.com/vi/aFcRrjoxuhE/0.jpg)](https://youtu.be/aFcRrjoxuhE)  
+**Classic NES Series: Super Mario Bros. (GBA)**
 
-- **Super Mario Advance 2: Super Mario World**  
-  [▶️ Watch on YouTube](https://youtu.be/8WXnK6SlbTY)
+[![Super Mario Advance 2: Super Mario World](https://img.youtube.com/vi/8WXnK6SlbTY/0.jpg)](https://youtu.be/8WXnK6SlbTY)  
+**Super Mario Advance 2: Super Mario World (GBA)**
 
-- **Iridion 3D**  
-  [▶️ Watch on YouTube](https://youtu.be/qfTpp6OrO1c)
+[![Iridion 3D](https://img.youtube.com/vi/qfTpp6OrO1c/0.jpg)](https://youtu.be/qfTpp6OrO1c)  
+**Iridion 3D (GBA)**
 
 ## 🧠 Core Features
 
